@@ -18,6 +18,8 @@ let name = "Jordan"; //let allows you to reassign the variables
 const name = "Jordan"; //cannot reassign the variables 
 
 ```
+making different commit
+
 
 
 
