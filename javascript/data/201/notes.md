@@ -1,4 +1,4 @@
-# Javascript Data tyoes 201
+# Javascript Data types 201
 ## Data types can be collections  in other structures like objects or arrays.
 ### Objects
 
