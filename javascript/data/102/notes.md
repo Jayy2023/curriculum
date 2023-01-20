@@ -17,7 +17,7 @@ const isNew = true;
 ### number
 Pretty straight forward but `number` cannot write really big numbers
  ```
-let age = 25;
+let age = 25; //
  ```
 
 
