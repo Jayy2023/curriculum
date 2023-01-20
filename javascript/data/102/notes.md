@@ -22,6 +22,8 @@ Pretty straight forward but `number` cannot write really big numbers
 
 let age = 25; //
 ```
+adding commit
+
  
 
 
