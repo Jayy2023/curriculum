@@ -33,3 +33,12 @@ const car =[
     }, 
 ];
 ```
+
+ Javascript considers arrays to be objects. so the fruits above looks like this to javascript.
+ ```
+ const fruits = {
+    0: "apples",
+    1: "oranges",
+    2: "peaches",
+};
+ ```
