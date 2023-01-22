@@ -1,0 +1,1 @@
+alias xvs="code . curriculum"
