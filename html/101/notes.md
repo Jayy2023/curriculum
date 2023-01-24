@@ -48,3 +48,5 @@ Browsers can read files or you can start a server in VS Code with **Go Live**.
 ```
 <links> - used to link a stylesheet, only found in the `<head>`
 ```
+
+s
