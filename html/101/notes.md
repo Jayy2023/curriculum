@@ -5,7 +5,7 @@
 HTML -> hyper text markup language
 
 `head` ->tag configures the page and is not rendered by default by the browser.
-The `title` contains the neame of the page and is rendered in the browser's tab.
+The `title` contains the name of the page and is rendered in the browser's tab.
 Tags that have opening and closing tags are known as container elements.
 Tags that do not have opening and closing tags are not container elements and are called self-closing tags.
 To make reading an HTML file easier, lines are nested within their parent element.
@@ -14,7 +14,7 @@ Browsers can read files or you can start a server in VS Code with **Go Live**.
 
 ### Some of the most common elements are listed below.
 
-#### smeantic elements include
+#### semantic elements include
 
 ```
 <ul> - unordered list
@@ -27,7 +27,7 @@ Browsers can read files or you can start a server in VS Code with **Go Live**.
 <nav> - contains navigation elements, usually found inside of `<header>`
 <p> - use for single paragraph of text
 <img/> - used for images, must have source attribute //Self-closing tags
-<a> - anchor element used for hyerlink elements with `href` attribute
+<a> - anchor element used for hyperlink elements with `href` attribute
 <h1> - header text (largest)
 <h2> - header text
 <h3> - header text
@@ -43,7 +43,7 @@ Browsers can read files or you can start a server in VS Code with **Go Live**.
 <div> - generic containing element
 ```
 
-#### tages used inside pf `<head>`
+#### tags used inside pf `<head>`
 
 ```
 <links> - used to link a stylesheet, only found in the `<head>`
