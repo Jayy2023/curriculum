@@ -1,3 +1,6 @@
 .heading{
     font-family: 'Courier New', Courier, monospace;
 }
+#bio{
+    color: coral; // Try to avoid targeting id in css 
+}

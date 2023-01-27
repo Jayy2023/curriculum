@@ -18,7 +18,7 @@ applies a height in pixels to the element using numerical value only (should be 
 loads a stylesheet, links to external URL or links to an element on the page
 
 **id**
-stores a value that can be targeted by Javascript or CSS or by reference by the `href` or anchor tag.
+stores a value that can be targeted by Javascript or CSS or by reference by the `href` or anchor tag. //AVOID USING IN CSS.
 
 **lang**
 denotes the language of an `<html>` element.
