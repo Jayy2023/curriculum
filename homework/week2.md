@@ -8,6 +8,6 @@
 | Friends   | 9.5   |
 | Rubiks    | 9     |
 | Artist    | 10    |
-| Months    | 9     |
+| Months    | 10    |
 | Students  |10     |
 | Finances  |10     |
