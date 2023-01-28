@@ -1,3 +1,15 @@
+## element levels
+block
+inline
+inline block
+## flow
+## position
+absolute
+fixed
+static
+relative
+
+
 ## li
 ```
 inline inline-block are values of display within the li.
