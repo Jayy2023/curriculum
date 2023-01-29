@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+
+div{
+    width: 375px;
+    border: 15px solid transparent;
+    padding: 50px;
+    margin: 30px;
+   text-align: center;
+}
+.navbar {
+    list-style-type: none;
+    margin: 0;
+     padding: 0;
+    overflow: hidden;
+    background-color: #6b92ca;
+    text-align: center;
+  }
+
+  .nav {
+    display: inline;
+    margin: 0;
+    padding: 0.5rem;
+    text-align: center;
+    color: #fff;
+  }
+  
+body{
+    font-family: 'Roboto Regular', serif;
+    font-size: 18px;
+    
+}
+p{
+    text-align: center;
+}
+
+header{
+    font-family: 'Libre Baskerville', serif; 
+    background-color: #6b92ca;
+    height: 75px;  
+}
+i{
+    color: #ed1b1b;
+    opacity: 50%;
+    font-size: 2em;
+    width: 20px;
+    height: 6px;
+    padding-right: 2rem;
+    
+}
+footer{
+    background-color: #31435e;
+    height: 75px;
+    color: #fff;
+    font-family: 'Roboto Light', serif;
+    
+}
+h1{
+    font-family: 'Libre Baskerville Bold', serif; 
+    font-size: 24px;
+    text-align: center;
+
+}
+h2{
+    font-family: 'Libre Baskerville Bold', serif;
+    font-size: 21px;
+    text-align: center;
+
+}
+nav{
+    font-family: 'Roboto Light', serif;
+    font-size: 24px;
+    text-align: center;
+
+}
+
+
