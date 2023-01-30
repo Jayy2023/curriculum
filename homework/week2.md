@@ -11,3 +11,4 @@
 | Months    | 10    |
 | Students  |10     |
 | Finances  |10     |
+| RSM       | 7.5   |
