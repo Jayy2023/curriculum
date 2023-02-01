@@ -43,8 +43,8 @@ The statement has three parts- __begin__,__condition__,__next__. After __begin__
 for(let i = 0; i < 10; i++) {
     console.log(i);
 }
-```
-```javascript
+
+javascript
 for(let i = 0; i < 10; i++) {
     // print multiples of 3 only
     if (i % 3 !== 0) continue;
@@ -81,4 +81,12 @@ do{
     console.log(i);
     i++;
 }while(i < 3);
+```
+**for...of**
+Iterates by value. This is a more succinct alternative to the **for** explained above.
+```javascript
+const items = ["apples", "banana", "soup"];
+for (const item of items){
+    console.log(item);
+}
 ```
