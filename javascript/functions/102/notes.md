@@ -23,7 +23,7 @@ const a = function(){ //traditional function expression
 const b = () => "Jordan"; // Arrow function expression 
 ```
 
-You can remove parentheses if there is only one arguement.
+You can remove parentheses if there is only one argument.
 ```javascript
 //one argument
 const greeting = function (name){

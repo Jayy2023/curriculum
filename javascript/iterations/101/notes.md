@@ -4,7 +4,7 @@
 ### Terms
 
 **`break`**
-Exits the loop programatically. Used only with imperative statements.
+Exits the loop programmatically.Used only with imperative statements.
 ```javascript
 
 ```
@@ -73,7 +73,7 @@ while(count > 0) {
 }
 ```
 **do...while**
-Executes code as long as the condition is `true`. It will always execute code within the body atleast once.
+Executes code as long as the condition is `true`. It will always execute code within the body at least once.
 
 ```javascript
 let i = 0;
