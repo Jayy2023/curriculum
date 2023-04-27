@@ -1,8 +1,8 @@
 const express = require('express');
 const app = express();
 
-app.get('/', (req, res) => {
-  res.json('Hello, World!');
+app.get('/heartbeat', (req, res) => {
+  res.json({ is: 'World!'});
 });
 
 app.listen(4040, () => {
