@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 
 app.get('/heartbeat', (req, res) => {
-  res.json({ is: 'World!'});
+  res.json({ is: 'Working!'});
 });
 
 app.listen(4040, () => {
